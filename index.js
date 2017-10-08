@@ -1,2 +1,4 @@
-var foo = 'bar';
 console.log('12');
+window.onload = function(){}
+
+
